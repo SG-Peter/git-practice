@@ -3,3 +3,4 @@
 "3rd added line" 
 "4nd line added by Mary Lenovo" 
 "5th line by Mary for testing conflict" 
+"6th line by Peter at TestBranchA" 
